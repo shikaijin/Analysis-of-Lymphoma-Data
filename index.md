@@ -43,6 +43,8 @@ Certificate of Distinction for students scoring in the top 25% in Canadian Senio
 
 _*You can go to my [LinkedIn](https://www.linkedin.com/in/shikai-jin-492a0b136/) page for more about my work experience._
 
-<a href="https://ShikaiJin.github.io/R_Project.md">Page 2</a>
+================================================
+### Past Assignments
+[Analysis of Lymphoma Data](https://www.linkedin.com/in/shikai-jin-492a0b136/)
 
 
