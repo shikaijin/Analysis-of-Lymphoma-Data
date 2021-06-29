@@ -45,6 +45,6 @@ _*You can go to my [LinkedIn](https://www.linkedin.com/in/shikai-jin-492a0b136/)
 
 ================================================
 ### Past Assignments
-[Analysis of Lymphoma Data](https://www.linkedin.com/in/shikai-jin-492a0b136/)
+[Analysis of Lymphoma Data](https://github.com/shikaijin/ShikaiJin.github.io/blob/e51041c475f61829eee910caa2b26f5892a55f70/R_Project.md)
 
 
