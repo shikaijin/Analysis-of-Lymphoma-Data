@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# Welcome to Shikai Jin's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/shikaijin/ShikaiJin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
+### Key Skills and Characteristics
+• Strong mathematical and statistical background\
+• Quick learner, diligent and responsible\
+• Programming experience with R and Python, in-depth knowledge of relational database principles and corresponding query language skills (e.g. SQL)\
+• Structured and logical thinking process\
+• Team player, positive can-do attitude\
+• Honest and lucid, with attention to details\
+• Strong solution finding, and prioritization skills and attention to detail\
+• Fluency in using technology tools/software (MS Word, Excel, PowerPoint)\
+• Critical thinker, problem solver, with the ability to pursue help when required
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Education Background
+University of Windsor\
+**Master of Management, Business Data Analytics**                                                                     
+SEP 2021 – DEC 2022
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+McMaster University CCE\
+**Certificate in Foundations of Analytics, Business Intelligence, Data Analysis and Data Science**\
+MAY 2020  – APR 2021
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Queen's University\
+**Bachelor of Science (Honours) in Mathematics**   
+SEP 2016 - APR 2020 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shikaijin/ShikaiJin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Awards
+Certificate of Distinction for students scoring in the top 25% in Euclid Contest (2015)\
+Certificate of Distinction for students scoring in the top 25% in Canadian Senior Mathematics Contest (2014)	
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+_*You can go to my [LinkedIn](https://www.linkedin.com/in/shikai-jin-492a0b136/) page for more about my work experience._
+
+
+
+
