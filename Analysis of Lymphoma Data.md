@@ -50,3 +50,20 @@
 | 7             | PERF_STA, B_SYM, r_score, PR_RAD, pr_drug, pr_resp|191.3  |  10    | 0.1556166 (vs Model 6)          |
 | 8             | PERF_STA, B_SYM, r_score, PR_RAD, pr_resp           | 188.7        |  9    |0.1062229 (vs Model 7)    |
 | 9             | PERF_STA, B_SYM, r_score, pr_resp         | 182.5       | 8    |0.01313057 (vs Model 8)    |
+
+
+### Nonparametric model analysis
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I then used Kaplan-Meier estimates plot to compare new treatment performs with the standard treatment. It suggests that the new treatment performs as good as the standard treatment since their survival functions are nearly overlapping.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To check how each variable in the final Cox regression model (Model 8) might affect the survival probability graphically, and which variables have the most influence, I compared survival functions for different factors in the variables, we observed patients with response with duration > 1 year are much different (higher) survival probability than the other two levels. In addition, patients with performance status 0 and international rIPI score 0 or 1 are more likely to survival than those with other levels, while there was no significant difference between the patients who received radiotherapy before randomization and those who did not. Through graphic exploration, it seems like Kaplan-Meier estimates agree with the Cox regression model, in which response to other treatments before randomization, international rIPI score and performance status play significant role for survival probability (Figure 1). Besides, I modeled variables in Model 8 again used the Kaplan-Meier estimates, and its result gives that patients with performance status 0, did not receive radiotherapy, with no B-symptom ,response to other treatments with duration > 1 year and r score 0,1 have the highest survival probability.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, I applied log rank test to confirm these observations. In each test, I first set the null hypothesis that each level has the same survival time distribution. Log rank test for treatment has p-values much greater than 0.001 (Table 2). There is no evidence against the null hypothesis. It follows that the survival time distribution of the treatment group is similar to the distribution of the control group. For response to other treatments before randomization, international rIPI score, B-symptom and performance, these variables have p-values smaller than 0.001 (Table 2). There are very strong evidences against the null hypothesis resulting in a significant difference in survival distribution among levels. However, the status survival functions interest with each other in performance so that log rank test does not works for these two variables. Therefore, we concluded response to other treatments before randomization and international rIPI score have more significant influence on the survival time.</p>
+
+<p>Table 2: log rank test</p>
+
+| Variables         | P value                                                                   | 
+| ------------- |:----------------------------------------------------------------------:|
+| trt             | 0.9| 
+| PERF_STA             | 2e-15      | 
+| PR_RAD             | 0.7  |  
+|B_SYM             | 2e-06         | 
+| r_score             | 1e-15        |
+| pr_resp            | <2e-16       |
