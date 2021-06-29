@@ -13,8 +13,7 @@
 • Critical thinker, problem solver, with the ability to pursue help when required
 
 
-
-
+================================================
 
 ### Education Background
 University of Windsor\
@@ -32,8 +31,7 @@ Queen's University\
 SEP 2016 - APR 2020 
 
 
-
-
+================================================
 ### Awards
 Certificate of Distinction for students scoring in the top 25% in Euclid Contest (2015)\
 Certificate of Distinction for students scoring in the top 25% in Canadian Senior Mathematics Contest (2014)	
