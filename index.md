@@ -1,6 +1,6 @@
 # Welcome to Shikai Jin's GitHub Pages
 
-## About me | [Past Assignments](Past_Assignment.md)
+## About me 
 
 ### Key Skills and Characteristics
 • Strong mathematical and statistical background\
@@ -45,6 +45,9 @@ Certificate of Distinction for students scoring in the top 25% in Canadian Senio
 _*You can go to my [LinkedIn](https://www.linkedin.com/in/shikai-jin-492a0b136/) page for more about my work experience._
 
 
-
+================================================
+## Past Assignment
+### Generalized linear model
+[Study of The Relationship Between a Particular Type of Heart Disease, Cholesterol Level and Blood Pressure](https://drive.google.com/file/d/1Lupe23UdjEQNRFt-fxJW5-hDrTVZUDBK/view?usp=sharing)
 
 
