@@ -1,6 +1,7 @@
 # Welcome to Shikai Jin's GitHub Pages
 
-## About me
+## [About me] | [Past Assignments]
+
 ### Key Skills and Characteristics
 • Strong mathematical and statistical background\
 • Quick learner, diligent and responsible\
@@ -43,8 +44,7 @@ Certificate of Distinction for students scoring in the top 25% in Canadian Senio
 
 _*You can go to my [LinkedIn](https://www.linkedin.com/in/shikai-jin-492a0b136/) page for more about my work experience._
 
-================================================
-### Past Assignments
-#### R for Data Science
+
+
 
 
