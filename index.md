@@ -1,6 +1,6 @@
 # Welcome to Shikai Jin's GitHub Pages
 
-## About me | [Past Assignments](https://github.com/shikaijin/ShikaiJin.github.io/blob/ce7e3b51c975afbbd6105b06c32c08b3fca9ee8c/Past_Assignment.md)
+## About me | [Past Assignments](Past_Assignment.md)
 
 ### Key Skills and Characteristics
 • Strong mathematical and statistical background\
