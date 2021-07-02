@@ -1,5 +1,5 @@
 # Analysis of Lymphoma Data
-#### by Zoe Jin
+
 
     
 ### Introduction
