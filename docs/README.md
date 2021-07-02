@@ -53,5 +53,5 @@ _*You can go to my [LinkedIn](https://www.linkedin.com/in/shikai-jin-492a0b136/)
 [Study of The Relationship Between a Particular Type of Heart Disease, Cholesterol Level and Blood Pressure](https://drive.google.com/file/d/1Lupe23UdjEQNRFt-fxJW5-hDrTVZUDBK/view?usp=sharing)
 
 ### Survival Analysis
-[Analysis of Lymphoma Data](https://github.com/shikaijin/ShikaiJin.github.io/blob/dbbcae3b65f9cfa941273397c4acb2d33a91c68a/docs/README.html)
+[Analysis of Lymphoma Data](https://https://shikaijin.github.io/README.html)
 
