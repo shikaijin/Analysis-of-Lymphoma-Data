@@ -28,8 +28,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I examined the data by scatter plots to explore the connection between each variable and survival time. There are some differences for survival time in each variable, but some levels have different survival time within each variable. It is obvious that score 0,1 and DU >1 have different mean effects from other levels within each group. Examining in this way, I noticed the scatter plot of log failure time versus treatment shows no substantial difference in the mean effects between treatment group. Similarly, levels in cancer stage, sex, received other drug before randomization and response to other treatments before randomization also have similar mean effect. We can easily see the difference within each group, however, it is difficult to tell how these factors affect failure time together and which factors are the most important explanatory variables, hence, we are looking for a representation of the relationship between response and explanatory variables.</p>
 
 <p float="left">
-<img src="https://user-images.githubusercontent.com/79543449/123740547-9efc2f80-d876-11eb-8e69-c3b2cbdaf27a.png" width="300" /> 
-<img src="https://user-images.githubusercontent.com/79543449/124212967-d90b4280-dabd-11eb-8576-0934c9664fa7.png" width="300" />
+<img src="https://user-images.githubusercontent.com/79543449/123740547-9efc2f80-d876-11eb-8e69-c3b2cbdaf27a.png" width="300" /> <img src="https://user-images.githubusercontent.com/79543449/124212967-d90b4280-dabd-11eb-8576-0934c9664fa7.png" width="300" />
 <img src="https://user-images.githubusercontent.com/79543449/124213158-17086680-dabe-11eb-8991-3cf470029912.png" width="300" />
 <img src="https://user-images.githubusercontent.com/79543449/124213012-e6283180-dabd-11eb-8d26-2797d5bd16cf.png" width="300" />
 <img src="https://user-images.githubusercontent.com/79543449/124213215-2daebd80-dabe-11eb-9652-0749c68a4eec.png" width="300" />
