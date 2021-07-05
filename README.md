@@ -138,6 +138,6 @@
 
 
 ### Reference
-[1] Missing-data imputation - Columbia University. (n.d.). Retrieved from http://www.stat.columbia.edu/~gelman/arm/missing.pdf
-[2] Survival Rates for Hodgkin Lymphoma. (n.d.). Retrieved from https://www.cancer.org/cancer/hodgkin-lymphoma/detection-diagnosis-staging/survival-rates.html
+[1] Missing-data imputation - Columbia University. (n.d.). Retrieved from http://www.stat.columbia.edu/~gelman/arm/missing.pdf\
+[2] Survival Rates for Hodgkin Lymphoma. (n.d.). Retrieved from https://www.cancer.org/cancer/hodgkin-lymphoma/detection-diagnosis-staging/survival-rates.html\
 [3] Sehn, L., Berry, B., Chhanabhai, M., Fitzgerald, C., Gill, K., Hoskins, P., … Sehn, L. (2007). The revised International Prognostic Index (R-IPI) is a better predictor of outcome than the standard IPI for patients with diffuse large B-cell lymphoma treated with R-CHOP. Blood, 109(5), 1857–1861. https://doi.org/10.1182/blood-2006-08-038257
