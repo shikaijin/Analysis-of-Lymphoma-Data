@@ -1,4 +1,6 @@
-# Analysis of Lymphoma Data
+# Analysis of Lymphoma Data ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shikaijin/STAT-486-Survival-Analysis.visitor-badge)
+
+
 #### by Zoe Jin
 
     
