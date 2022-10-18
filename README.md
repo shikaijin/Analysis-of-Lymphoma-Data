@@ -10,6 +10,5 @@
 
 
 * Data: [View here](https://github.com/shikaijin/Analysis-of-Lymphoma-Data/blob/1a10df0feeea003f9abe8036ec13389b8ecd2f9d/lymphoma.csv)
-* R Code: [View here](https://github.com/shikaijin/Analysis-of-Lymphoma-Data/blob/1a10df0feeea003f9abe8036ec13389b8ecd2f9d/output.R)
 * Paper: [View here](https://github.com/shikaijin/Analysis-of-Lymphoma-Data/blob/94b98acac60c343d5f773070e7a63d13090ed662/paper.md)
 
